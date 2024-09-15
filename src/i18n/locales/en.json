@@ -1,0 +1,13 @@
+{
+  "welcome": "Welcome",
+  "hello": "Hello",
+  "location_access": "Access location data",
+  "location_access_description": "Please agree to grant permission to access geo-location data in order to enjoy the curriculum that is appropriate for you",
+  "grant_permission": "Grant permission",
+  "deny_access_description": "Please let the application know your country of residence so that we can display the appropriate educational content to you",
+  "open_settings": "Open settings",
+  "login": "Log In",
+  "create_account": "Create Account",
+  "login_issue": "Problem logging in?",
+  "support_chat": "Chat with support here"
+}

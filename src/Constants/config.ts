@@ -1,0 +1,16 @@
+import {
+  BASE_URL,
+  REACT_APP_DEFAULT_URL_SCHEMA,
+  NEW_AUTH_FLOW_URL,
+  FREE_GEO_API_SERVER,
+  FREE_GEO_API_TOKEN,
+} from '@env';
+
+export const config = {
+  production: {
+    BASE_URL: REACT_APP_DEFAULT_URL_SCHEMA + BASE_URL + 'v1/',
+    AUTH_URL: NEW_AUTH_FLOW_URL,
+    GEO_IP_URL: FREE_GEO_API_SERVER,
+    GEO_IP_KEY: FREE_GEO_API_TOKEN,
+  },
+};
